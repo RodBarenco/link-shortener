@@ -1,3 +1,4 @@
 .env
 docker-compose.yml
 link-shortener.exe
+init.ps1
